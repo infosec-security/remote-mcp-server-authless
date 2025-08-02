@@ -1,0 +1,22 @@
+{
+  "linkedin_access_token": "SEU_ACCESS_TOKEN_AQUI",
+  "linkedin_person_id": "urn:li:person:SEU_PERSON_ID_AQUI",
+  "post_interval_minutes": 60,
+  "random_delay_minutes": 15,
+  "topics": [
+    "segurança_da_informação",
+    "forense_computacional",
+    "forense_digital",
+    "cibersegurança",
+    "golpes_digitais"
+  ],
+  "openai_api_key": "",
+  "use_ai_content": false,
+  "max_posts_per_day": 24,
+  "working_hours_only": false,
+  "working_hours_start": 9,
+  "working_hours_end": 18,
+  "post_immediately": false,
+  "enable_weekend_posts": true,
+  "verbose_logging": true
+}
