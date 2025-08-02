@@ -1,0 +1,17 @@
+# Para instalar em sistemas Ubuntu/Debian:
+# sudo apt update
+# sudo apt install python3-requests python3-urllib3
+
+# Para outros sistemas ou usando pip em venv:
+requests>=2.31.0
+schedule>=1.2.0
+urllib3>=2.0.0
+
+# Packages incluídos no Python 3.7+:
+# json (built-in)
+# datetime (built-in)  
+# logging (built-in)
+# threading (built-in)
+# time (built-in)
+# dataclasses (built-in Python 3.7+)
+# typing (built-in Python 3.5+)
